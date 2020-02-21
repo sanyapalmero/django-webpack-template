@@ -1,0 +1,50 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/username/project/issues"
+  },
+  "homepage": "https://github.com/username/project#readme",
+  "devDependencies": {
+    "@types/jquery": "3.3.4",
+    "@types/js-cookie": "2.1.0",
+    "@types/lodash": "4.14.112",
+    "clean-webpack-plugin": "0.1.19",
+    "css-loader": "1.0.0",
+    "deep-extend": "0.6.0",
+    "extract-loader": "2.0.1",
+    "file-loader": "1.1.11",
+    "mkdirp": "0.5.1",
+    "node-sass": "^4.13.1",
+    "optimize-css-assets-webpack-plugin": "4.0.3",
+    "resolve-url-loader": "2.3.0",
+    "sass-loader": "7.0.3",
+    "strip-ansi": "4.0.0",
+    "style-loader": "0.21.0",
+    "ts-loader": "4.4.2",
+    "typescript": "2.9.2",
+    "webpack": "4.15.1",
+    "webpack-cli": "3.0.8"
+  },
+  "dependencies": {
+    "jquery": "3.3.1",
+    "js-cookie": "2.2.0",
+    "lodash": "4.17.10",
+    "popper.js": "1.14.3",
+    "preact": "8.3.1",
+    "react-classlist-helper": "1.4.0"
+  }
+}
