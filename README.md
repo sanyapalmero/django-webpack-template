@@ -18,7 +18,7 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-For installing npm packages you need to need to run
+For installing npm packages you need to run
 ```bash
 npm install
 ```
