@@ -28,7 +28,7 @@
     "extract-loader": "2.0.1",
     "file-loader": "1.1.11",
     "mkdirp": "0.5.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "4.0.3",
     "resolve-url-loader": "2.3.0",
     "sass-loader": "7.0.3",
